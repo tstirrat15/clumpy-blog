@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Example content
+subtitle: Includes examples of all of the various formatting that you can do.
 ---
 
 
